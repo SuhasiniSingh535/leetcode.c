@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SuhasiniSingh535/codes.c/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SuhasiniSingh535/codes.c/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/SuhasiniSingh535/codes.c/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/SuhasiniSingh535/codes.c/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SuhasiniSingh535/codes.c/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SuhasiniSingh535/codes.c/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/SuhasiniSingh535/codes.c/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SuhasiniSingh535/codes.c/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/SuhasiniSingh535/codes.c/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SuhasiniSingh535/codes.c/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SuhasiniSingh535/codes.c/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

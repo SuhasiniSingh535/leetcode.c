@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SuhasiniSingh535/codes.c/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/SuhasiniSingh535/codes.c/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SuhasiniSingh535/codes.c/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SuhasiniSingh535/codes.c/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/SuhasiniSingh535/codes.c/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SuhasiniSingh535/codes.c/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuhasiniSingh535/codes.c/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/SuhasiniSingh535/codes.c/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SuhasiniSingh535/codes.c/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |

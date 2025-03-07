@@ -2,26 +2,12 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) 
     {
-        int i,j;
-        
-        for(i=0;i<nums.size();i++)
+        int xorr;
+        xorr=0;
+        for(int i=0;i<nums.size();i++)
         {
-            int count=0;
-            int ele=nums[i];
-            for(j=0;j<nums.size();j++)
-            {
-                if(nums[j]==nums[i])
-                {
-                    count++;
-                }
-                
-            }
-            if(count==1)
-            {
-                return ele;
-            }
-            
+            xorr=xorr^nums[i];
         }
-        return -1;
+       return xorr;
     }
 };

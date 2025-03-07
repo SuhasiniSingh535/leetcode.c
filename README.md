@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SuhasiniSingh535/codes.c/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/SuhasiniSingh535/codes.c/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SuhasiniSingh535/codes.c/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SuhasiniSingh535/codes.c/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SuhasiniSingh535/codes.c/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/SuhasiniSingh535/codes.c/tree/master/0496-next-greater-element-i) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SuhasiniSingh535/codes.c/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SuhasiniSingh535/codes.c/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SuhasiniSingh535/codes.c/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/SuhasiniSingh535/codes.c/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SuhasiniSingh535/codes.c/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SuhasiniSingh535/codes.c/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SuhasiniSingh535/codes.c/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/SuhasiniSingh535/codes.c/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -81,4 +85,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SuhasiniSingh535/codes.c/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SuhasiniSingh535/codes.c/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SuhasiniSingh535/codes.c/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
